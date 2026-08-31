@@ -31,7 +31,7 @@ export function Hero() {
           </span>
 
           <h1 className="mt-6 text-balance text-4xl font-semibold leading-[1.05] tracking-tight md:text-6xl">
-            Turn scattered data into decisions you can trust (AAAA).
+            Turn scattered data into decisions you can trust (BBB).
           </h1>
 
           <p className="mt-6 max-w-2xl text-pretty text-lg leading-relaxed text-muted-foreground">
